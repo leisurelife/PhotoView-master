@@ -43,7 +43,7 @@ public void onCreate(Bundle savedInstanceState) {
 	
 	// Any implementation of ImageView can be used!
 	mImageView = (ImageView) findViewById(R.id.iv_photo);
-	chenjianlin
+	chenjianlin wang
 	// Set the Drawable displayed
 	Drawable bitmap = getResources().getDrawable(R.drawable.wallpaper);
 	mImageView.setImageDrawable(bitmap);
